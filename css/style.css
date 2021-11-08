@@ -1,0 +1,232 @@
+head{
+    background-color: #AD98B5;
+}
+
+.space{
+    display: flexbox;
+    height: 100px;
+    width: 1000px;
+
+}
+
+
+body{
+    background-color: #AD98B5;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.homeButton{
+    display: inline-flex;
+    padding-top: 5%;
+    padding-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #ABFFB8;
+}
+
+.positions{
+    padding-left: 12%;
+    padding-top: 8%;
+    line-height: 28px;
+    list-style: none;
+}
+
+.hiFei{
+    padding-left: 8%;
+   
+    font-size: 60px;
+    font-family: 'Seymour One', sans-serif;
+    color:black;
+
+}
+
+.email{
+    padding-left: 12%;
+    padding-top: 1%;
+
+    
+}
+
+.email1{
+    text-decoration: underline;
+    display: inline-block;
+    
+}
+
+.photo{
+    display: inline-flex;
+    padding-left: 65%;
+    margin-top: -1000%;
+    height: 400px;
+    width: 310px;
+    
+}
+
+
+.aboutButton{
+    display: inline-flex;
+    padding-top: 5%;
+    padding-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #ABFFB8;
+}
+
+
+.hiFei{
+    display: inline-flex;
+    padding-top: 5%;
+    padding-left: 8%;
+    
+}
+
+.hiimFei{
+    font-family: 'Seymour One', sans-serif;
+    font-size: 30px;
+    color: black;
+    padding-left: 12%;
+}
+
+.intro{
+    padding-left: 12%;
+    width: 300px;
+}
+
+.softwares{
+    padding-left: 12%;
+    font-style: bold;
+    list-style:circle;
+    line-height: 2;
+}
+.like{
+    font-family:'Seymour One', sans-serif;
+    
+    
+}
+
+.myworkButton{
+    display: inline-flex;
+    padding-top: 5%;
+    padding-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #ABFFB8;
+    padding-bottom: 3%;
+}
+
+.case{
+    font-family:'Seymour One', sans-serif;
+    color: #4A3552;
+}
+
+
+.contactmeButton{
+    display: inline-flex;
+    padding-top: 5%;
+    padding-left: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #ABFFB8;
+
+}
+
+
+
+.sectionHead {
+    border-bottom: 5px solid #ABFFB8;
+    padding-top: 4%;
+  }
+
+
+  .footer-basic {
+    padding:40px 0;
+    background-color: #AD98B5;
+    color:#ABFFB8;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:left;
+    padding-bottom:25px;
+    padding-left: 7%;
+  }
+  
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color: #4A3552;
+    margin-bottom:0;
+  }
+  
+  /* Credit to https://epicbootstrap.com/snippets/footer-basic */
+
+ .cases{
+     display: flex;
+ } 
+.coffee{
+    height: 400px;
+    width:300px;
+    background-color: white;
+    margin-left: 90px;
+    margin-right: 50px;
+}
+.children{
+    height: 400px;
+    width:300px;
+    background-color: white;
+    margin-right: 50px;
+}
+.plastic{
+    height: 400px;
+    width:300px;
+    background-color: white;
+    margin-right: 90px;
+}
+
+
+ 
